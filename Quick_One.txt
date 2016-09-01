@@ -1,2 +1,2 @@
-Quick Start - NewsML-G2 Basics
+# Quick Start - NewsML-G2 Basics
 This Quick Guide is intended to give implementers enough information about NewsML-G2 to begin creating a useful working set of model NewsML-G2 documents for their organisation, or to begin working with G2 documents provided by another organisation. This Guide covers the G2 features that are common to most types of content. Further Quick Guides give more specific information about conveying types of content: text, pictures, video, and news packages.
